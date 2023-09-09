@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:ui_app/money_elhrameen_app/presentation/app.dart';
+import 'package:ui_app/app.dart';
 
 
 void main() {
